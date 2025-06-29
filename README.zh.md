@@ -1,6 +1,6 @@
-# 阿兹漫画大王 文明六模组
+# [PQ2] 世界探索进度
 
-*Steam 创意工坊链接：* [[PQ]  春日步(大阪)  -  阿兹漫画大王](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784880)
+*Steam 创意工坊链接：* [[PQ2] 世界探索进度](https://steamcommunity.com/sharedfiles/filedetails/?id=3511988180)
 
 ---
 
@@ -13,10 +13,7 @@
 
 ## 关于本模组
 
-这是一个以动漫《阿兹漫画大王》（あずまんが大王）为灵感制作的《文明 VI》粉丝模组，加入了全新的文明、特色单位、特色区域、特色改良设施以及原创音乐。
-
-本仓库包含了**模组开发项目**所需的全部内容，包括代码、XML、SQL、Lua 脚本和构建元数据。  
-**本仓库不包含任何受版权保护的图像或音频素材**，相关内容因版权限制需另行处理。
+该模组是一个简单的UI模组，会在产出栏上面显示当前世界的探索进度，包括世界总共格数，已探索格数，及其百分比。
 
 ---
 
@@ -35,8 +32,7 @@ Steam 创意工坊页面的描述文本，支持多语言。
 每个版本的更新日志，以 Markdown 格式编写，按主版本号与语言分类，例如：
 
 ```
-docs/changelog/en/0.9.md
-docs/changelog/zh/1.1.md
+docs/changelog/en/1.0.md
 ```
 
 ---
@@ -45,56 +41,30 @@ docs/changelog/zh/1.1.md
 
 项目的大部分内容都有注释，欢迎提问或进一步了解其中的机制与实现方式。
 
-`MassProduction/` 目录中的一些技术组件灵感来源于 [RUIVO](https://steamcommunity.com/profiles/76561198864459088) 的作品，尤其是模组 [Modular Adjacency Bonuses Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3429735059)。
-
 ---
 
-## 安装与使用说明
+## 授权协议
 
-本仓库面向模组开发者、技术爱好者，以及希望了解《文明 VI》模组制作流程的玩家。
 
-构建与游玩模组的步骤如下：
-
-1. 补足图像和音频资源（可从原始来源或 Steam 创意工坊版本中获取）；
-2. 使用官方的《文明 VI》模组工具（ModBuddy）编译并构建本模组项目。
-
----
-
-## 授权协议与素材使用
-
-### [代码许可协议](LICENSE)
 
 本项目采用 [MIT 开源许可证](LICENSE)。  
 你可以自由地使用、修改代码，用于个人、教育和非商业目的。
-
-### [素材使用说明](./ASSETS-LICENSE.md)
-
-与《阿兹漫画大王》相关的所有图像与音频素材，其版权归原作者与权利方所有，包括但不限于：
-
-- 动画制作公司 J.C.STAFF 及其授权单位  
-- 音乐创作者 Kuricorder Quartet
-
-本仓库**不包含任何受版权保护的图像或音频文件**。  
-如有版权相关疑问或侵权问题，请及时联系作者以处理或下架。
 
 ---
 
 ## 开发计划
 
-- 扩展大阪的内容：领袖议程、对话与语音  
-- 添加新资源：“Saata Andagi”
-- 加入奇观，如体育祭，文化祭等
-- 添加新领袖，例如千代及其“天才”特性
+ - 让光标悬浮时的显示文本显示更多信息
+ - 支持更多语音
+ - 优化代码
 
 ---
 
 ## 特别鸣谢
 
-- [hemmelfort](https://space.bilibili.com/28399130): 为文明六中文社区提供了详尽的教程
-- [UzukiShimamura卯月](https://steamcommunity.com/profiles/76561198402598762): 提供了作为重要参考的模组模板
-- [RUIVO](https://steamcommunity.com/profiles/76561198864459088): 其相邻加成的模组提供了我诸多启发
-- AI 工具（ChatGPT、DeepSeek）：翻译与文本协助  
-- [L24](https://space.bilibili.com/3546631957908287): 实机测试与反馈支持 
+ - [Map Trix](https://steamcommunity.com/sharedfiles/filedetails/?id=3507072814): 关于前端的UI的实现，教会了一个文明七模组新人从零上手。
+ - AI Overlord: ChatGPT，功不可没。
+ - Azumanga Daioh: 探索的图标就是化用自其中的角色千代父。
 
 ---
 
@@ -103,14 +73,6 @@ docs/changelog/zh/1.1.md
 - Email: joxin64@gmail.com
 - [BiliBil](https://space.bilibili.com/96237361)
 - [Steam 创意工坊](https://steamcommunity.com/profiles/76561198819319969/)
-
----
-
-## 声明
-
-本模组为非盈利性质的粉丝创作，仅供交流学习使用。  
-其中提及的所有版权内容归原权利方所有。  
-如有任何侵权问题，请及时联系作者删除或调整相关内容。
 
 ---
 
