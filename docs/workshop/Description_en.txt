@@ -12,8 +12,6 @@ Is it true that [i] Non Sufficit Orbis [/i] — the world is not enough?
 [b] Then give this mod a try! [/b]
 
 [h1] Main Features [/h1]
-This mod supports both English and Chinese.
-
 It’s a lightweight UI mod that displays your current world exploration progress above the yield panel, including total plots, explored plots, and the percentage explored.
 
 For changelogs and more, visit GitHub:
