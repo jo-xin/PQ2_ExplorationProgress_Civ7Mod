@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Database>
+  <IconDefinitions>
+    <Replace>
+      <ID>PQ2_ICON_EXPLORATION</ID>
+      <Path>fs://game/PQ2_ExplorationProgress/data/icons/exploration.png</Path>
+    </Replace>
+  </IconDefinitions>
+</Database>

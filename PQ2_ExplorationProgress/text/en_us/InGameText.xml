@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Replace Tag="LOC_PQ2_YIELD_EXPLORATION">
+            <Text>Your Progress in Exploring the World</Text>
+        </Replace>
+    </EnglishText>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_MOD_PQ2_EXPLORATIONPROGRESS_NAME">
+            <Text>[PQ2] World Exploration Progress</Text>
+        </Row>
+        <Row Tag="LOC_MOD_PQ2_EXPLORATIONPROGRESS_DESCRIPTION">
+            <Text>Adds world exploration progress to the yield panel! Displays explored tiles and their percentage.</Text>
+        </Row>
+    </EnglishText>
+</Database>

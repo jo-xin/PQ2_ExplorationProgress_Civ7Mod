@@ -1,0 +1,111 @@
+[b] ↑ Positive Rates are widely welcome if you want others to try the mod of one of the most kawaii girls - Osaka! If you have other ways to promote, they are also extremely welcome. Your support will drive the creation of new content for the mod, including new characters, as well as wonders! [/b]
+
+[quote] Disclaimer:
+This mod is a non-profit fan-made project, created for community-sharing purposes only. All visual/audio materials related to Azumanga Daioh anime are the property of their original rights holders.
+If any content in this mod infringes upon intellectual property rights, please contact me. I will promptly remove disputed materials upon formal request.
+ [/quote]
+
+[hr][/hr]
+
+[h1] Mod Info [/h1]
+Introducing a new Civilization Azumanga Daioh, and a new Leader Kasuga Ayumu (Osaka)!
+Experience a relaxing playstyle + unique unit Chiyo-Chichi + unique districts and improvements + a set of cozy music from OST!
+
+[b] Supports both English / Chinese! [/b]
+
+[h1] Version 1.0.0 (Now 1.1.4) [/h1]
+First major release! A substantial update - check the changelog in GitHub.
+
+[h1] Introduction [/h1]
+Full changelogs & casual development essays available on GitHub:
+[b][url=github.com/jo-xin/PQ_Osaka_Civ6Mod]PQ_Osaka_Civ6Mod[/url][/b]
+
+As my first mod, feedback is highly welcomed! Reporting bugs, balancing issues (too strong or too weak), or suggesting new ideas—even asset replacements! Please don't hesitate to share!
+
+The World Exploration progress tracking UI feature shown in some screenshots comes from a separate mod of mine, [b] and is not included here. [/b]You may find it here: [b][url=steamcommunity.com/sharedfiles/filedetails/?id=3489191920]World Exploration Progress[/url][/b]
+
+
+
+[h1] Azumanga Daioh [/h1]
+[quote=Azumanga Daioh]
+Hello, every nyan!
+How are you? Fine, thank you.
+OH MY GAH!!
+I wish I were a bird...
+[/quote]
+
+Adds a new civilization - Azumanga Daioh with unique units, improvements, and districts! 
+Just like the anime's easygoing pace, this civilization thrives on high Amenities, which boost national yields.
+The unique unit Chiyo-Chichi also adds exploration fun!
+
+Installing [b][url=steamcommunity.com/sharedfiles/filedetails/?id=3489191920]my second mod[/url][/b] is also highly recommended, which shows world exploration progress in the top UI bar - and see how much mobility Chiyo-Chichi will gain in detail!
+
+[h2]  Civilization Ability [/h2]
+A Chiyo-chichi will be placed near capital next turn if you do not have one. No starting Warrior. Gain +1 Culture for each Amenity.
+
+[h2] Unique Unit - Chiyo-Chichi [/h2]
+A unique recon unit which can jump. Cannot be produced or purchased, cannot attack. Gains +10 Combat Strength for each era, and increase its mobility as you explore the world. Disappears when Exoplanet Expedition begins.
+
+[h2]Unique Improvement - Summer House [/h2]
+A unique Tile Improvement which is similar to Seaside Resort, provides +1 extra Amenity but -1 Production until Education.
+
+[h2] Unique District - High School [/h2]
+A unique campus district which gains more Science from Summer House, Theater Square or Entertainment Complex, but less from mountain tiles.
+
+
+
+[h1] Kasuga Ayumu (Osaka) [/h1]
+[quote=Kasuga Ayumu]
+Saata Andagi~
+[/quote]
+
+Introduces a new leader - Kasuga Ayumu (Osaka) with unique mechanics!
+
+[h2] Osaka [/h2]
+All new cities will be considered on a different continent than original capital. 
+
+[h2] Daydreamer [/h2]
+Enter Anarchy when unlocking new Government or world enters a new Era as long as Government has once been changed. Policy and Government changes become free on the turn AFTER completing a Civic or ending Anarchy, but not immediately completing a Civic. When Anarchy ends, you also gain one free Eureka and Inspiration from the next era.
+
+
+[h2] Riddle Master [/h2]
+Triggering an Inspiration will grant 30% progress toward a random technology with Eureka triggered.
+
+
+
+[h1] Music [/h1]
+Add 13 OST BGM for the civilization, from KURICORDER QUARTET. For optimal experience, install [b][url=steamcommunity.com/sharedfiles/filedetails/?id=2225900548]BGM Fix Mod[/url][/b].
+* BGM list see the last image in the album of mode description
+
+
+
+[h1] Roadmap [/h1]
+[list]
+    [*]Expand Osaka's content: add leader agendas & dialogue, and add her cute voice into dialog like normal leaders.
+    [*]Create a simple promotional trailer video
+    [*]Add new resource "Saata Andagi"
+    [*]Introduce Wonders (e.g., Culture/Sports Festivals, with abilities, like boosting yields when Amenities >5)
+    [*]Add more leaders (e.g. Mihama Chiyo—"Genius" ability to mitigate tech/civic penalties from later Eras)
+[/list]
+
+
+
+[hr][/hr]
+
+
+[h1]Special Thanks[/h1]
+[b][url=space.bilibili.com/28399130]hemmelfort[/url][/b]: Authored comprehensive Civilization VI modding tutorials for the Chinese community, and this mod's foundation relies on his work.  
+[b][url=steamcommunity.com/profiles/76561198402598762]UzukiShimamura[/url][/b]: Provided critical implementation references.  
+[b][url=steamcommunity.com/profiles/76561198864459088]RUIVO[/url][/b] – His adjacency mechanics inspired me a lot, like Lua-db interaction insights, and Lua-modifier interaction, and so on.  
+[b]AI SAMA[/b] – ChatGPT, DeepSeek, etc., for help with translation and text
+[b][url=space.bilibili.com/3546631957908287]L24[/url][/b] – The first to truly playtest this mod from a gameplay design perspective and offer valuable feedback - far more effort than I have done!
+
+
+
+
+[h1] Contact [/h1]
+
+email:(joxin64@gmail.com)
+[b][url=space.bilibili.com/28399130]BiliBili[/url][/b]
+[b][url=github.com/jo-xin]github[/url][/b]
+

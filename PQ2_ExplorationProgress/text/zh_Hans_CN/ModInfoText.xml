@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <LocalizedText>
+        <Row Tag="LOC_MOD_PQ2_EXPLORATIONPROGRESS_NAME" Language="zh_Hans_CN">
+            <Text>[PQ2] 世界探索进度</Text>
+        </Row>
+        <Row Tag="LOC_MOD_PQ2_EXPLORATIONPROGRESS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>为产量栏加入了世界探索的进度！包括已探索的单元格及其比例。</Text>
+        </Row>
+    </LocalizedText>
+</Database>
