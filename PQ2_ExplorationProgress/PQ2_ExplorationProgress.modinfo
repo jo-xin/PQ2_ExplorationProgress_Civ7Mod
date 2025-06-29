@@ -6,7 +6,7 @@
         <Version>1.0.0</Version>
         <Description>LOC_MOD_PQ2_EXPLORATIONPROGRESS_DESCRIPTION</Description>
         <Authors>Joxin</Authors>
-        <URL>https://forums.civfanatics.com/resources/map-trix.31950/</URL>
+        <URL>https://github.com/jo-xin/PQ2_ExplorationProgress_Civ7Mod</URL>
         <Package>Mod</Package>
         <AffectsSavedGames>0</AffectsSavedGames>
     </Properties>
